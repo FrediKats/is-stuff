@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg858"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Таск-4.svg">
+  <defs
+     id="defs852" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata855">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:5.15905518;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 398.57227 419.66211 A 278.57144 144.28573 0 0 0 325.71484 424.72656 L 263.16406 521.38477 L 316.05859 622.51172 L 510.31445 625.56641 L 553.48047 547.30664 L 480.96289 426.12109 A 278.57144 144.28573 0 0 0 398.57227 419.66211 z M 553.48047 547.30664 L 601.16602 626.99414 L 510.31445 625.56641 L 467.24023 703.65625 A 278.57144 144.28573 0 0 0 677.14258 563.94727 A 278.57144 144.28573 0 0 0 599.41797 464.02148 L 553.48047 547.30664 z M 316.05859 622.51172 L 198.91211 620.66992 L 263.16406 521.38477 L 226.16406 450.64648 A 278.57144 144.28573 0 0 0 120 563.94727 A 278.57144 144.28573 0 0 0 360.08203 706.67773 L 316.05859 622.51172 z "
+       transform="scale(0.26458333)"
+       id="path860" />
+  </g>
+</svg>
