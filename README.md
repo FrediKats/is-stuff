@@ -12,3 +12,12 @@
 - Если ты читаешь конспект и находишь ошибки/не состыковки - можешь также отправлять фиксы
 - Если у тебя вопросы на счет адекватности материала - их тоже можно вкинуть с помощью issues
 - Много материалов написаны в .doc(x) - хотелось бы переписать это в markdown. Если у тебя есть этот же материал в .md - заливай, что-то лучше чем ничего.
+
+## Special thanks
+
+Список людей, чьи материалы сюда попали:
+- [@maksimbark](https://github.com/maksimbark)
+- [@maryshipkova](https://github.com/maryshipkova)
+- [@SergeiSheremet](https://github.com/SergeiSheremet)
+- [@losickij239](https://github.com/losickij239)
+- [@WhiteStaff](https://github.com/WhiteStaff)
