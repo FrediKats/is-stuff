@@ -25,6 +25,7 @@
 - [@SergeiSheremet](https://github.com/SergeiSheremet)
 - [@losickij239](https://github.com/losickij239)
 - [@WhiteStaff](https://github.com/WhiteStaff)
+- [@annchous](https://github.com/annchous)
 
 ## Subjects
 
