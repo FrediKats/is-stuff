@@ -37,30 +37,30 @@
 |Анализ и проектирование на UML|uml|
 |Архитектура информационных систем|[arch-is](/arch-is-y20)|
 |Архитектура ЭВМ и систем| |
-|Базы данных|[database](https://github.com/annchous/is-stuff-1/tree/master/database)|
-|Безопасность жизнедеятельности|[bzd](https://github.com/annchous/is-stuff-1/tree/master/bzd-y21)|
+|Базы данных|[database](/database)|
+|Безопасность жизнедеятельности|[bzd](/bzd-y21)|
 |Вычислительная математика| |
 |Дискретная математика| |
 |Иностранный язык| |
-|Инструментальные средства разработки программного обеспечения|[devtools](https://github.com/annchous/is-stuff-1/tree/master/devtools-y20)|
+|Инструментальные средства разработки программного обеспечения|[devtools](/devtools-y20)|
 |Интеллектуальные системы и технологии| |
 |Информатика / ЦК| |
 |Информационная безопасность| |
 |История| |
 |Компьютерная геометрия и графика| |
 |Культурология| |
-|Математика|[math](https://github.com/annchous/is-stuff-1/tree/master/math-1-y20)|
-|Методы оптимизации|[optimization-methods](https://github.com/annchous/is-stuff-1/tree/master/optimization-methods-y20)|
+|Математика|[math](/math-1-y20)|
+|Методы оптимизации|[optimization-methods](/optimization-methods-y20)|
 |Мультимедиа технологии| |
-|Объектно-ориентированное программирование|[oop](https://github.com/annchous/is-stuff-1/tree/master/oop)|
-|Операционные системы|[os](https://github.com/annchous/is-stuff-1/tree/master/os-y20)|
+|Объектно-ориентированное программирование|[oop](/oop)|
+|Операционные системы|[os](/os-y20)|
 |Организация и управление бизнес-процессами| |
-|Основы проектирования информационных систем|[is-designing](https://github.com/annchous/is-stuff-1/tree/master/is-designing-y20)|
-|Основы тестирования программного обеспечения|[qa](https://github.com/annchous/is-stuff-1/tree/master/qa-y20)|
-|Основы экономики|[economic](https://github.com/annchous/is-stuff-1/tree/master/economic-y20)|
-|Правовые основы интеллектуальной собственности|[правовые основы-y20](https://github.com/annchous/is-stuff-1/tree/master/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-y20)|
-|Прикладная математика|[applied-math](https://github.com/annchous/is-stuff-1/tree/master/applied-math-y20/tasks)|
-|Программирование|[programming](https://github.com/annchous/is-stuff-1/tree/master/programming)|
+|Основы проектирования информационных систем|[is-designing](/is-designing-y20)|
+|Основы тестирования программного обеспечения|[qa](/qa-y20)|
+|Основы экономики|[economic](/economic-y20)|
+|Правовые основы интеллектуальной собственности|[правовые основы-y20](/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-y20)|
+|Прикладная математика|[applied-math](/applied-math-y20)|
+|Программирование|[programming](/programming)|
 |Проектирование баз данных|database-2|
 |Проектная документация| |
 |Психология общения| |
@@ -68,9 +68,9 @@
 |Теория вероятностей| |
 |Теория информационных процессов и систем| |
 |Теория систем и системный анализ| |
-|Технологии разработки ПО|[software-dev-tech](https://github.com/annchous/is-stuff-1/tree/master/software-dev-tech/y20)|
+|Технологии разработки ПО|[software-dev-tech](/software-dev-tech/y20)|
 |Учебная практика| |
 |Физика| |
-|Философия|[philosopy](https://github.com/annchous/is-stuff-1/tree/master/philosopy-y20)|
+|Философия|[philosopy](/philosopy-y20)|
 |Экология| |
 |Электронная коммерция| |
