@@ -35,7 +35,7 @@
 |Администрирование в операционных системах LINUX|admin-linux|
 |Алгоритмы и структуры данных|algorithm|
 |Анализ и проектирование на UML|uml|
-|Архитектура информационных систем|[arch-is](https://github.com/annchous/is-stuff/tree/master/arch-is-y20)|
+|Архитектура информационных систем|[arch-is](/arch-is-y20)|
 |Архитектура ЭВМ и систем| |
 |Базы данных|[database](https://github.com/annchous/is-stuff-1/tree/master/database)|
 |Безопасность жизнедеятельности|[bzd](https://github.com/annchous/is-stuff-1/tree/master/bzd-y21)|
