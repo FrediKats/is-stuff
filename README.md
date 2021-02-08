@@ -26,6 +26,7 @@
 - [losickij239](https://github.com/losickij239)
 - [WhiteStaff](https://github.com/WhiteStaff)
 - [annchous](https://github.com/annchous)
+- [hatulmadan1](https://github.com/hatulmadan1)
 - [s4xack](https://github.com/s4xack)
 
 ## Subjects
