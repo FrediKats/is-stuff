@@ -20,12 +20,13 @@
 ## Special thanks
 
 Список людей, чьи материалы сюда попали:
-- [@maksimbark](https://github.com/maksimbark)
-- [@maryshipkova](https://github.com/maryshipkova)
-- [@SergeiSheremet](https://github.com/SergeiSheremet)
-- [@losickij239](https://github.com/losickij239)
-- [@WhiteStaff](https://github.com/WhiteStaff)
-- [@annchous](https://github.com/annchous)
+- [maksimbark](https://github.com/maksimbark)
+- [maryshipkova](https://github.com/maryshipkova)
+- [SergeiSheremet](https://github.com/SergeiSheremet)
+- [losickij239](https://github.com/losickij239)
+- [WhiteStaff](https://github.com/WhiteStaff)
+- [annchous](https://github.com/annchous)
+- [s4xack](https://github.com/s4xack)
 
 ## Subjects
 
